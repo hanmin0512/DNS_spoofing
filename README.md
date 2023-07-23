@@ -6,7 +6,6 @@
 ## DNS Spoofing 개념
 - DNS 동작 방식을 악용하여 피해자(victim)가 정상 웹사이트가 아닌 해커의 파밍사이트로 유도하는 기술
 - 피해자의 패킷을 가로채서 변조시켜 피해자에게 전송
-- <a href = ""> DNS 개념 학습하기 </a>
 
 ## DNS Spoofing 원리 (ARP Spoofing이 성공한 상태)
 - ARP Cache Table이 poisoning된상태의 피해자(victim)가 웹 브라우저를 통해 특정 사이트로 이동한다(facebook, instagram ...)
