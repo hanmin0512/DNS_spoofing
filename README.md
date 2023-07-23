@@ -22,6 +22,10 @@
 ## 구현 환경
 - python
 - scapy
+## DNS Spoofing 순서도 그림
+> DNS Spoofing 순서도
+![dns_spoof](https://github.com/hanmin0512/DNS_spoofing/assets/37041208/e132e240-d52b-47fd-9d70-4cdea1c5a27a)
+
 
 ## ARP Spoofing과 DNS Spoofing, Pharming site를 이용한 MITM 공격
 - <a href= "" > MITM DNS Spoofing 실습 보러가기 </a>
