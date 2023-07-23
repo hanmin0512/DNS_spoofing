@@ -23,5 +23,5 @@
 - python
 - scapy
 
-## ARP Spoofing과 DNS Spoofing, Parming site를 이용한 MITM 공격
+## ARP Spoofing과 DNS Spoofing, Pharming site를 이용한 MITM 공격
 - <a href= "" > MITM DNS Spoofing 실습 보러가기 </a>
